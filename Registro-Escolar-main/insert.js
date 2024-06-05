@@ -152,7 +152,7 @@ $("#tbEstudiantes").on("click", ".editar_", async function () {
       Correo: document.getElementById("correo").value,
       Telefono: document.getElementById("cel").value,
       Estado: document.getElementById("est").value,
-      Registro: "SAROCHITA",
+      Registro: "SAROCHITA bb",
     });
   } catch (error) {
     console.log("error", error);
